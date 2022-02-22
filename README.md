@@ -18,7 +18,7 @@
   <img align="center" alt="Alan-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><br><br>
 </div>
 
-## My Workplace
+## My Workspace
 <div style="display: inline_block">
   <img align="center" alt="Alan-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
   <img align="center" alt="Alan-Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><br><br>
