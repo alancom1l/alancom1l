@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I´m Alan!</h1>
+<h1 align="center" >Hi, I´m Alan! :vulcan_salute:</h1>
 
 <h2 align="center" >Languages</h2>
 
