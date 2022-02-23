@@ -1,6 +1,6 @@
-<h1 align="center" >Hi, I´m Alan! :vulcan_salute:</h1>
+<h1 align="center" >Hi, I´m Alan! :seal:</h1>
 
-<h2 align="center" >Languages</h2>
+<h2 align="center" >:man_technologist: Languages</h2>
 
 <div align="center" style="display: inline_block">  
   <img align="center" alt="Alan-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -10,7 +10,7 @@
   <img align="center" alt="Alan-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><br><br>
 </div>
 
-<h2 align="center" >My Workspace</h2>
+<h2 align="center" >:computer: My Workspace</h2>
 
 <div align="center" >
   <img align="center" alt="Alan-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
@@ -24,7 +24,7 @@
   <img align="center" alt="Alan-Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"><br><br>
 </div>
 
-<h2 align="center" >Contact me</h2>
+<h2 align="center" >:calling: Contact me</h2>
  
 <div align="center" >
   <a href="https://www.linkedin.com/in/alan-aristides-570603216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
