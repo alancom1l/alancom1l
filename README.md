@@ -1,8 +1,8 @@
-## Hi, I´m Alan!
+<h1 align="center" >Hi, I´m Alan!</h1>
 
-## Languages
+<h2 align="center" >Languages</h2>
 
-<div style="display: inline_block">  
+<div align="center" style="display: inline_block">  
   <img align="center" alt="Alan-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Alan-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Alan-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -10,9 +10,9 @@
   <img align="center" alt="Alan-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><br><br>
 </div>
 
-## My Workspace
+<h2 align="center" >My Workspace</h2>
 
-<div>
+<div align="center" >
   <img align="center" alt="Alan-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
   <img align="center" alt="Alan-Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><br><br>
   <img align="center" alt="Alan-Dell" src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white">
@@ -24,9 +24,9 @@
   <img align="center" alt="Alan-Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"><br><br>
 </div>
 
-## Contact me
+<h2 align="center" >Contact me</h2>
  
-<div>
+<div align="center" >
   <a href="https://www.linkedin.com/in/alan-aristides-570603216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:alan.doarist@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/allancom1l" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
