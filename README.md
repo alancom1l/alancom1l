@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I´m Alan! :seal:</h1>
+<h1 align="center" >Hi, I´m Alan! :thought_balloon:</h1>
 
 <h2 align="center" >:man_technologist: Languages</h2>
 
