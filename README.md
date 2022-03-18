@@ -20,7 +20,6 @@
   <img align="center" alt="Alan-Processor" src="https://camo.githubusercontent.com/6a5f626f69b5002dbfe2d908a1674eb7f0bb5439167595eb3eef4c1d69177321/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c2d636f72652532306935253230313074682d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="Alan-RAM" src="https://camo.githubusercontent.com/c65b6027e093f1170019309c575123328cd6824d11aa154464aea649f4f71d6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d313647422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="Alan-GPU" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><br><br>
-  <img align="center" alt="Alan-NetBeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
   <img align="center" alt="Alan-VisualStudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Alan-Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"><br><br>
 </div>
